@@ -1,1 +1,1 @@
-# -Quantum-Resilience-Optimizer-for-Disaster-Management
+# Quantum-Resilience-Optimizer-for-Disaster-Management
